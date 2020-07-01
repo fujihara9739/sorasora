@@ -1,0 +1,13 @@
+.main-pic{
+  width: 500px;
+  position: relative;
+}
+
+
+.ppp{
+  position: absolute;
+  top:25%;
+  left:50%;
+  font-size: 200px;
+  color:#f0f8ff;
+}
