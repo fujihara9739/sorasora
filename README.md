@@ -7,7 +7,7 @@
   </head>
   <body>
     <div class="main-pic">
-        <img src="sample/IMG_2917.JPG" alt="SORA">
+        <img src="IMG_2917.JPG" alt="SORA">
         <p class="ppp">僕 10歳</p>
     </div>
   </body>
