@@ -1,13 +1,35 @@
+
 .main-pic{
-  width: 500px;
   position: relative;
 }
-
+img{
+    width: 100vw;
+}
 
 .ppp{
   position: absolute;
-  top:25%;
-  left:50%;
-  font-size: 200px;
+  top: 20%;
+  left: 50%;
+  transform: translate(-20%, -50%);
+  -webkit-transform: translate(-20%, -50%);
+  -ms-transform: translate(-20%, -50%);
   color:#f0f8ff;
+  text-align: center;
+  border-bottom: 1px solid #f0f8ff;
+
+}
+.p1{
+    font-size: 30px;
+}
+.p2{
+    font-size: 50px;
+}
+@media(max-width:380px;){
+  .p1{
+      font-size: 15px;
+  }
+  .p2{
+      font-size: 25px;
+  }
+
 }
