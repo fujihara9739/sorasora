@@ -9,10 +9,21 @@ img{
 .ppp{
   position: absolute;
   top: 20%;
+
+.main-pic{
+  position: relative;
+}
+img{
+    width: 100vw;
+}
+
+.ppp{
+  position: absolute;
+  top: 0%;
   left: 50%;
-  transform: translate(-20%, -50%);
-  -webkit-transform: translate(-20%, -50%);
-  -ms-transform: translate(-20%, -50%);
+  transform: translate(-50%);
+  -webkit-transform: translate(-50%);
+  -ms-transform: translate(-50%);
   color:#f0f8ff;
   text-align: center;
   border-bottom: 1px solid #f0f8ff;
